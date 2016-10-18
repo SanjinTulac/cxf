@@ -125,6 +125,7 @@
         <module>jax_rs/sse_cdi</module>
         <module>jax_rs/sse_tomcat</module>
         <module>jax_rs/sse_spring</module>
+        <module>jax_rs/nio_cdi</module>
     </modules>
     <dependencyManagement>
         <dependencies>
